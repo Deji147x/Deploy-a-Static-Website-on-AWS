@@ -1,5 +1,4 @@
 ![Alt text](Html.png)
-
 ---
 # Static Web App Hosting on AWS
 
