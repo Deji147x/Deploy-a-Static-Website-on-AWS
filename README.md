@@ -1,7 +1,7 @@
-# Static Web App Hosting on AWS
-
-# Reference Image
 ![Alt text](Html.png)
+
+---
+# Static Web App Hosting on AWS
 
 ## Project Overview
 This project demonstrates how to host a static HTML web application on AWS. The architecture ensures high availability, fault tolerance, and scalability by leveraging various AWS services.
